@@ -13,7 +13,7 @@
 	- commit: stage의 blob에 대해 metadata 작성 및 snapshot
 	- push: local repo에 적재된 commit들을 remote reposutory로 이송
 - start project with git clone
-
+- branch
 
 ## 내일 할 일
 
